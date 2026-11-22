@@ -23,7 +23,11 @@ en: {
   mawid_tag: "Appointment booking for businesses",
   mawid_desc: "Online appointment booking for barbers, beauty salons, trainers and wellness businesses. Clients book in seconds; owners manage their whole schedule from their phone.",
   mawid_region: "🇮🇱 Available in Israel only",
-  mawid_f: ["Clients book 24/7, free", "Business dashboard & schedule", "Hebrew, Arabic & English", "Beauty, fitness & wellness categories"]
+  mawid_f: ["Clients book 24/7, free", "Business dashboard & schedule", "Hebrew, Arabic & English", "Beauty, fitness & wellness categories"],
+  mainu_tag: "Daily group voting game",
+  mainu_desc: "“Who among us is most likely to…?” A new question every day for your group of friends. Everyone votes, then see the results and find out what your friends really think of you.",
+  mainu_region: "🌍 Coming soon, worldwide",
+  mainu_f: ["A new question every day", "Play with groups of 3 or more", "“How well do you know me?” – friends play from a link, no install", "Available in 7 languages"]
 },
 he: {
   title: "AJ Softworks — אפליקציות פשוטות, פרטיות ושימושיות",
@@ -48,7 +52,11 @@ he: {
   mawid_tag: "זימון תורים לעסקים",
   mawid_desc: "זימון תורים אונליין לספרים, מכוני יופי, מאמנים ועסקי בריאות ורווחה. הלקוחות קובעים תור בשניות, ובעלי העסק מנהלים את כל היומן מהטלפון.",
   mawid_region: "🇮🇱 זמינה בישראל בלבד",
-  mawid_f: ["הלקוחות קובעים תור 24/7, בחינם", "לוח ניהול ויומן לעסק", "עברית, ערבית ואנגלית", "קטגוריות יופי, כושר ורווחה"]
+  mawid_f: ["הלקוחות קובעים תור 24/7, בחינם", "לוח ניהול ויומן לעסק", "עברית, ערבית ואנגלית", "קטגוריות יופי, כושר ורווחה"],
+  mainu_tag: "משחק הצבעה קבוצתי יומי",
+  mainu_desc: "\"מי מאיתנו הכי סביר ש…?\" שאלה חדשה כל יום לקבוצת החברים שלכם. כולם מצביעים, ואז רואים את התוצאות ומגלים מה החברים באמת חושבים עליכם.",
+  mainu_region: "🌍 בקרוב, בכל העולם",
+  mainu_f: ["שאלה חדשה כל יום", "משחקים בקבוצה של 3 ומעלה", "\"כמה אתה מכיר אותי?\" – החברים משחקים מקישור, בלי התקנה", "זמין ב־7 שפות"]
 },
 ar: {
   title: "AJ Softworks — تطبيقات بسيطة وخاصة ومفيدة",
@@ -73,7 +81,11 @@ ar: {
   mawid_tag: "حجز المواعيد للأعمال",
   mawid_desc: "حجز مواعيد عبر الإنترنت للحلاقين وصالونات التجميل والمدربين وأعمال العافية. يحجز العملاء خلال ثوانٍ، ويدير أصحاب الأعمال جدولهم بالكامل من الهاتف.",
   mawid_region: "🇮🇱 متوفر في إسرائيل فقط",
-  mawid_f: ["حجز للعملاء على مدار الساعة ومجاناً", "لوحة تحكم وجدول مواعيد للعمل", "العبرية والعربية والإنجليزية", "فئات التجميل واللياقة والعافية"]
+  mawid_f: ["حجز للعملاء على مدار الساعة ومجاناً", "لوحة تحكم وجدول مواعيد للعمل", "العبرية والعربية والإنجليزية", "فئات التجميل واللياقة والعافية"],
+  mainu_tag: "لعبة تصويت جماعية يومية",
+  mainu_desc: "\"مَن منّا الأكثر احتمالاً أن…؟\" سؤال جديد كل يوم لمجموعة أصدقائك. الجميع يصوّت، ثم شاهدوا النتائج واكتشفوا رأي أصدقائكم الحقيقي فيكم.",
+  mainu_region: "🌍 قريباً، حول العالم",
+  mainu_f: ["سؤال جديد كل يوم", "العب مع مجموعة من 3 أشخاص أو أكثر", "\"كم تعرفني؟\" – يلعب الأصدقاء من رابط، بدون تثبيت", "متوفر بـ 7 لغات"]
 },
 es: {
   title: "AJ Softworks — Apps sencillas, privadas y útiles",
@@ -98,7 +110,11 @@ es: {
   mawid_tag: "Reserva de citas para negocios",
   mawid_desc: "Reserva de citas online para barberías, salones de belleza, entrenadores y centros de bienestar. Los clientes reservan en segundos y los dueños gestionan toda su agenda desde el móvil.",
   mawid_region: "🇮🇱 Disponible solo en Israel",
-  mawid_f: ["Los clientes reservan 24/7, gratis", "Panel y agenda para el negocio", "Hebreo, árabe e inglés", "Categorías de belleza, fitness y bienestar"]
+  mawid_f: ["Los clientes reservan 24/7, gratis", "Panel y agenda para el negocio", "Hebreo, árabe e inglés", "Categorías de belleza, fitness y bienestar"],
+  mainu_tag: "Juego de votación diario en grupo",
+  mainu_desc: "“¿Quién de nosotros es más probable que…?” Una pregunta nueva cada día para tu grupo de amigos. Todos votan y luego descubren lo que sus amigos piensan de verdad.",
+  mainu_region: "🌍 Próximamente, en todo el mundo",
+  mainu_f: ["Una pregunta nueva cada día", "Juega en grupos de 3 o más", "“¿Cuánto me conoces?”: tus amigos juegan desde un enlace, sin instalar nada", "Disponible en 7 idiomas"]
 },
 fr: {
   title: "AJ Softworks — Des applications simples, privées et utiles",
@@ -123,7 +139,11 @@ fr: {
   mawid_tag: "Prise de rendez-vous pour les professionnels",
   mawid_desc: "Prise de rendez-vous en ligne pour barbiers, salons de beauté, coachs et professionnels du bien-être. Les clients réservent en quelques secondes ; les gérants pilotent tout leur agenda depuis leur téléphone.",
   mawid_region: "🇮🇱 Disponible uniquement en Israël",
-  mawid_f: ["Réservation 24h/24 et 7j/7, gratuite pour les clients", "Tableau de bord et agenda pour le professionnel", "Hébreu, arabe et anglais", "Catégories beauté, fitness et bien-être"]
+  mawid_f: ["Réservation 24h/24 et 7j/7, gratuite pour les clients", "Tableau de bord et agenda pour le professionnel", "Hébreu, arabe et anglais", "Catégories beauté, fitness et bien-être"],
+  mainu_tag: "Jeu de vote quotidien entre amis",
+  mainu_desc: "« Qui d'entre nous serait le plus susceptible de… ? » Une nouvelle question chaque jour pour votre groupe d'amis. Tout le monde vote, puis découvrez ce que vos amis pensent vraiment de vous.",
+  mainu_region: "🌍 Bientôt disponible dans le monde entier",
+  mainu_f: ["Une nouvelle question chaque jour", "Jouez à partir de 3 personnes", "« Me connais-tu vraiment ? » : vos amis jouent depuis un lien, sans installation", "Disponible en 7 langues"]
 },
 de: {
   title: "AJ Softworks — Einfache, private und nützliche Apps",
@@ -148,7 +168,11 @@ de: {
   mawid_tag: "Terminbuchung für Unternehmen",
   mawid_desc: "Online-Terminbuchung für Barbiere, Kosmetikstudios, Trainer und Wellness-Betriebe. Kunden buchen in Sekunden, Inhaber verwalten ihren gesamten Kalender vom Handy aus.",
   mawid_region: "🇮🇱 Nur in Israel verfügbar",
-  mawid_f: ["Kunden buchen rund um die Uhr, kostenlos", "Dashboard & Kalender für das Business", "Hebräisch, Arabisch & Englisch", "Kategorien Beauty, Fitness & Wellness"]
+  mawid_f: ["Kunden buchen rund um die Uhr, kostenlos", "Dashboard & Kalender für das Business", "Hebräisch, Arabisch & Englisch", "Kategorien Beauty, Fitness & Wellness"],
+  mainu_tag: "Tägliches Gruppen-Abstimmungsspiel",
+  mainu_desc: "„Wer von uns würde am ehesten …?“ Jeden Tag eine neue Frage für deine Freundesgruppe. Alle stimmen ab – dann seht ihr die Ergebnisse und erfahrt, was eure Freunde wirklich über euch denken.",
+  mainu_region: "🌍 Bald weltweit verfügbar",
+  mainu_f: ["Jeden Tag eine neue Frage", "Spielbar ab 3 Personen", "„Wie gut kennst du mich?“ – Freunde spielen per Link, ohne Installation", "In 7 Sprachen verfügbar"]
 },
 ru: {
   title: "AJ Softworks — Простые, приватные и полезные приложения",
@@ -173,7 +197,11 @@ ru: {
   mawid_tag: "Онлайн-запись для бизнеса",
   mawid_desc: "Онлайн-запись к барберам, в салоны красоты, к тренерам и в wellness-студии. Клиенты записываются за секунды, а владельцы управляют всем расписанием с телефона.",
   mawid_region: "🇮🇱 Доступно только в Израиле",
-  mawid_f: ["Запись для клиентов 24/7, бесплатно", "Панель управления и расписание", "Иврит, арабский и английский", "Категории: красота, фитнес и wellness"]
+  mawid_f: ["Запись для клиентов 24/7, бесплатно", "Панель управления и расписание", "Иврит, арабский и английский", "Категории: красота, фитнес и wellness"],
+  mainu_tag: "Ежедневная игра-голосование для компании",
+  mainu_desc: "«Кто из нас скорее всего…?» Каждый день новый вопрос для вашей компании друзей. Все голосуют, а потом смотрят результаты и узнают, что друзья думают на самом деле.",
+  mainu_region: "🌍 Скоро, по всему миру",
+  mainu_f: ["Каждый день новый вопрос", "Играйте компанией от 3 человек", "«Насколько хорошо ты меня знаешь?» — друзья играют по ссылке, без установки", "Доступно на 7 языках"]
 },
 tr: {
   title: "AJ Softworks — Sade, gizliliğe saygılı ve kullanışlı uygulamalar",
@@ -198,7 +226,11 @@ tr: {
   mawid_tag: "İşletmeler için randevu sistemi",
   mawid_desc: "Berberler, güzellik salonları, antrenörler ve sağlıklı yaşam işletmeleri için online randevu. Müşteriler saniyeler içinde randevu alır, işletme sahipleri tüm takvimi telefondan yönetir.",
   mawid_region: "🇮🇱 Yalnızca İsrail'de kullanılabilir",
-  mawid_f: ["Müşteriler 7/24 ücretsiz randevu alır", "İşletme paneli ve takvim", "İbranice, Arapça ve İngilizce", "Güzellik, fitness ve sağlıklı yaşam kategorileri"]
+  mawid_f: ["Müşteriler 7/24 ücretsiz randevu alır", "İşletme paneli ve takvim", "İbranice, Arapça ve İngilizce", "Güzellik, fitness ve sağlıklı yaşam kategorileri"],
+  mainu_tag: "Günlük grup oylama oyunu",
+  mainu_desc: "“Aramızda kim en çok…?” Arkadaş grubunuz için her gün yeni bir soru. Herkes oy verir, ardından sonuçları görüp arkadaşlarınızın sizin hakkınızda gerçekte ne düşündüğünü öğrenirsiniz.",
+  mainu_region: "🌍 Yakında, tüm dünyada",
+  mainu_f: ["Her gün yeni bir soru", "3 veya daha fazla kişilik gruplarla oynayın", "“Beni ne kadar tanıyorsun?” – arkadaşlar bir bağlantıdan, kurulum olmadan oynar", "7 dilde"]
 },
 pt: {
   title: "AJ Softworks — Apps simples, privados e úteis",
@@ -223,7 +255,11 @@ pt: {
   mawid_tag: "Agendamento para negócios",
   mawid_desc: "Agendamento online para barbearias, salões de beleza, personal trainers e negócios de bem-estar. Os clientes agendam em segundos e os donos gerenciam toda a agenda pelo celular.",
   mawid_region: "🇮🇱 Disponível apenas em Israel",
-  mawid_f: ["Clientes agendam 24/7, grátis", "Painel e agenda para o negócio", "Hebraico, árabe e inglês", "Categorias de beleza, fitness e bem-estar"]
+  mawid_f: ["Clientes agendam 24/7, grátis", "Painel e agenda para o negócio", "Hebraico, árabe e inglês", "Categorias de beleza, fitness e bem-estar"],
+  mainu_tag: "Jogo diário de votação em grupo",
+  mainu_desc: "“Quem de nós tem mais chance de…?” Uma pergunta nova todo dia para o seu grupo de amigos. Todos votam e depois descobrem o que os amigos realmente pensam.",
+  mainu_region: "🌍 Em breve, no mundo todo",
+  mainu_f: ["Uma pergunta nova todo dia", "Jogue em grupos de 3 ou mais", "“Quanto você me conhece?” – amigos jogam por um link, sem instalar", "Disponível em 7 idiomas"]
 },
 zh: {
   title: "AJ Softworks — 简单、私密、实用的应用",
@@ -248,6 +284,10 @@ zh: {
   mawid_tag: "商家预约工具",
   mawid_desc: "为理发店、美容院、健身教练和健康养生商家提供在线预约。客户几秒即可完成预约，商家用手机就能管理全部日程。",
   mawid_region: "🇮🇱 仅限以色列",
-  mawid_f: ["客户全天候免费预约", "商家后台与日程管理", "希伯来语、阿拉伯语和英语", "美容、健身与养生分类"]
+  mawid_f: ["客户全天候免费预约", "商家后台与日程管理", "希伯来语、阿拉伯语和英语", "美容、健身与养生分类"],
+  mainu_tag: "每日群组投票游戏",
+  mainu_desc: "“我们之中谁最有可能……？”每天为你的朋友群推出一个新问题。大家一起投票，然后查看结果，看看朋友们到底怎么看你。",
+  mainu_region: "🌍 即将上线，全球可用",
+  mainu_f: ["每天一个新问题", "3 人及以上即可开玩", "“你有多了解我？”——朋友通过链接即可参与，无需安装", "支持 7 种语言"]
 }
 };
