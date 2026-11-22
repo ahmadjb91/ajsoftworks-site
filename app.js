@@ -27,9 +27,8 @@ const APPS = [
     name: "Mainu",
     color: "linear-gradient(135deg,#f59e0b,#ec4899)",
     icon: "users",
-    // Not released yet: both stores show "Coming soon".
-    // When live, paste: https://play.google.com/store/apps/details?id=com.ajsoftworks.mainu
-    appStore: "",
+    appStore: "https://apps.apple.com/app/mainu-whos-most-likely-to/id6835141764",
+    // Google Play: not live yet. When it is, paste the store link here.
     googlePlay: ""
   }
 ];

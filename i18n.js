@@ -26,7 +26,7 @@ en: {
   mawid_f: ["Clients book 24/7, free", "Business dashboard & schedule", "Hebrew, Arabic & English", "Beauty, fitness & wellness categories"],
   mainu_tag: "Daily group voting game",
   mainu_desc: "“Who among us is most likely to…?” A new question every day for your group of friends. Everyone votes, then see the results and find out what your friends really think of you.",
-  mainu_region: "🌍 Coming soon, worldwide",
+  mainu_region: "🌍 Available worldwide",
   mainu_f: ["A new question every day", "Play with groups of 3 or more", "Fun challenges: “How well do you know me?” and Friend Match", "Available in 7 languages"]
 },
 he: {
@@ -55,7 +55,7 @@ he: {
   mawid_f: ["הלקוחות קובעים תור 24/7, בחינם", "לוח ניהול ויומן לעסק", "עברית, ערבית ואנגלית", "קטגוריות יופי, כושר ורווחה"],
   mainu_tag: "משחק הצבעה קבוצתי יומי",
   mainu_desc: "\"מי מאיתנו הכי סביר ש…?\" שאלה חדשה כל יום לקבוצת החברים שלכם. כולם מצביעים, ואז רואים את התוצאות ומגלים מה החברים באמת חושבים עליכם.",
-  mainu_region: "🌍 בקרוב, בכל העולם",
+  mainu_region: "🌍 זמינה בכל העולם",
   mainu_f: ["שאלה חדשה כל יום", "משחקים בקבוצה של 3 ומעלה", "אתגרים מהנים: \"כמה אתה מכיר אותי?\" ו־Friend Match", "זמין ב־7 שפות"]
 },
 ar: {
@@ -84,7 +84,7 @@ ar: {
   mawid_f: ["حجز للعملاء على مدار الساعة ومجاناً", "لوحة تحكم وجدول مواعيد للعمل", "العبرية والعربية والإنجليزية", "فئات التجميل واللياقة والعافية"],
   mainu_tag: "لعبة تصويت جماعية يومية",
   mainu_desc: "\"مَن منّا الأكثر احتمالاً أن…؟\" سؤال جديد كل يوم لمجموعة أصدقائك. الجميع يصوّت، ثم شاهدوا النتائج واكتشفوا رأي أصدقائكم الحقيقي فيكم.",
-  mainu_region: "🌍 قريباً، حول العالم",
+  mainu_region: "🌍 متوفر حول العالم",
   mainu_f: ["سؤال جديد كل يوم", "العب مع مجموعة من 3 أشخاص أو أكثر", "تحديات ممتعة: \"كم تعرفني؟\" و Friend Match", "متوفر بـ 7 لغات"]
 },
 es: {
@@ -113,7 +113,7 @@ es: {
   mawid_f: ["Los clientes reservan 24/7, gratis", "Panel y agenda para el negocio", "Hebreo, árabe e inglés", "Categorías de belleza, fitness y bienestar"],
   mainu_tag: "Juego de votación diario en grupo",
   mainu_desc: "“¿Quién de nosotros es más probable que…?” Una pregunta nueva cada día para tu grupo de amigos. Todos votan y luego descubren lo que sus amigos piensan de verdad.",
-  mainu_region: "🌍 Próximamente, en todo el mundo",
+  mainu_region: "🌍 Disponible en todo el mundo",
   mainu_f: ["Una pregunta nueva cada día", "Juega en grupos de 3 o más", "Retos divertidos: “¿Cuánto me conoces?” y Friend Match", "Disponible en 7 idiomas"]
 },
 fr: {
@@ -142,7 +142,7 @@ fr: {
   mawid_f: ["Réservation 24h/24 et 7j/7, gratuite pour les clients", "Tableau de bord et agenda pour le professionnel", "Hébreu, arabe et anglais", "Catégories beauté, fitness et bien-être"],
   mainu_tag: "Jeu de vote quotidien entre amis",
   mainu_desc: "« Qui d'entre nous serait le plus susceptible de… ? » Une nouvelle question chaque jour pour votre groupe d'amis. Tout le monde vote, puis découvrez ce que vos amis pensent vraiment de vous.",
-  mainu_region: "🌍 Bientôt disponible dans le monde entier",
+  mainu_region: "🌍 Disponible dans le monde entier",
   mainu_f: ["Une nouvelle question chaque jour", "Jouez à partir de 3 personnes", "Défis amusants : « Me connais-tu vraiment ? » et Friend Match", "Disponible en 7 langues"]
 },
 de: {
@@ -171,7 +171,7 @@ de: {
   mawid_f: ["Kunden buchen rund um die Uhr, kostenlos", "Dashboard & Kalender für das Business", "Hebräisch, Arabisch & Englisch", "Kategorien Beauty, Fitness & Wellness"],
   mainu_tag: "Tägliches Gruppen-Abstimmungsspiel",
   mainu_desc: "„Wer von uns würde am ehesten …?“ Jeden Tag eine neue Frage für deine Freundesgruppe. Alle stimmen ab – dann seht ihr die Ergebnisse und erfahrt, was eure Freunde wirklich über euch denken.",
-  mainu_region: "🌍 Bald weltweit verfügbar",
+  mainu_region: "🌍 Weltweit verfügbar",
   mainu_f: ["Jeden Tag eine neue Frage", "Spielbar ab 3 Personen", "Lustige Challenges: „Wie gut kennst du mich?“ und Friend Match", "In 7 Sprachen verfügbar"]
 },
 ru: {
@@ -200,7 +200,7 @@ ru: {
   mawid_f: ["Запись для клиентов 24/7, бесплатно", "Панель управления и расписание", "Иврит, арабский и английский", "Категории: красота, фитнес и wellness"],
   mainu_tag: "Ежедневная игра-голосование для компании",
   mainu_desc: "«Кто из нас скорее всего…?» Каждый день новый вопрос для вашей компании друзей. Все голосуют, а потом смотрят результаты и узнают, что друзья думают на самом деле.",
-  mainu_region: "🌍 Скоро, по всему миру",
+  mainu_region: "🌍 Доступно по всему миру",
   mainu_f: ["Каждый день новый вопрос", "Играйте компанией от 3 человек", "Весёлые испытания: «Насколько хорошо ты меня знаешь?» и Friend Match", "Доступно на 7 языках"]
 },
 tr: {
@@ -229,7 +229,7 @@ tr: {
   mawid_f: ["Müşteriler 7/24 ücretsiz randevu alır", "İşletme paneli ve takvim", "İbranice, Arapça ve İngilizce", "Güzellik, fitness ve sağlıklı yaşam kategorileri"],
   mainu_tag: "Günlük grup oylama oyunu",
   mainu_desc: "“Aramızda kim en çok…?” Arkadaş grubunuz için her gün yeni bir soru. Herkes oy verir, ardından sonuçları görüp arkadaşlarınızın sizin hakkınızda gerçekte ne düşündüğünü öğrenirsiniz.",
-  mainu_region: "🌍 Yakında, tüm dünyada",
+  mainu_region: "🌍 Tüm dünyada kullanılabilir",
   mainu_f: ["Her gün yeni bir soru", "3 veya daha fazla kişilik gruplarla oynayın", "Eğlenceli meydan okumalar: “Beni ne kadar tanıyorsun?” ve Friend Match", "7 dilde"]
 },
 pt: {
@@ -258,7 +258,7 @@ pt: {
   mawid_f: ["Clientes agendam 24/7, grátis", "Painel e agenda para o negócio", "Hebraico, árabe e inglês", "Categorias de beleza, fitness e bem-estar"],
   mainu_tag: "Jogo diário de votação em grupo",
   mainu_desc: "“Quem de nós tem mais chance de…?” Uma pergunta nova todo dia para o seu grupo de amigos. Todos votam e depois descobrem o que os amigos realmente pensam.",
-  mainu_region: "🌍 Em breve, no mundo todo",
+  mainu_region: "🌍 Disponível no mundo todo",
   mainu_f: ["Uma pergunta nova todo dia", "Jogue em grupos de 3 ou mais", "Desafios divertidos: “Quanto você me conhece?” e Friend Match", "Disponível em 7 idiomas"]
 },
 zh: {
@@ -287,7 +287,7 @@ zh: {
   mawid_f: ["客户全天候免费预约", "商家后台与日程管理", "希伯来语、阿拉伯语和英语", "美容、健身与养生分类"],
   mainu_tag: "每日群组投票游戏",
   mainu_desc: "“我们之中谁最有可能……？”每天为你的朋友群推出一个新问题。大家一起投票，然后查看结果，看看朋友们到底怎么看你。",
-  mainu_region: "🌍 即将上线，全球可用",
+  mainu_region: "🌍 全球可用",
   mainu_f: ["每天一个新问题", "3 人及以上即可开玩", "趣味挑战：“你有多了解我？”和 Friend Match", "支持 7 种语言"]
 }
 };
