@@ -15,14 +15,6 @@ const APPS = [
     googlePlay: ""
   },
   {
-    key: "mawid",
-    name: "Mawid",
-    color: "linear-gradient(135deg,#10b981,#0ea5e9)",
-    icon: "calendar",
-    appStore: "https://apps.apple.com/il/app/mawid/id6821429236",
-    googlePlay: "https://play.google.com/store/apps/details?id=app.mawid"
-  },
-  {
     key: "mainu",
     name: "Mainu",
     color: "linear-gradient(135deg,#f59e0b,#ec4899)",
