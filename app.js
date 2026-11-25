@@ -10,9 +10,7 @@ const APPS = [
     color: "linear-gradient(135deg,#0ea5e9,#6366f1)",
     icon: "lock",
     appStore: "https://apps.apple.com/app/aj-vault/id6830607391",
-    // Google Play: still in closed testing. When it is public, paste:
-    // https://play.google.com/store/apps/details?id=com.ajsoftworks.vault
-    googlePlay: ""
+    googlePlay: "https://play.google.com/store/apps/details?id=com.ajsoftworks.vault"
   },
   {
     key: "mainu",
