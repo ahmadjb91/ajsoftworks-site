@@ -1,6 +1,7 @@
 /* All site texts, per language. Edit the wording here. */
 const I18N = {
 en: {
+  follow: "Follow us",
   title: "AJ Softworks — Simple, private, useful apps",
   nav_apps: "Apps", nav_about: "About", nav_contact: "Contact",
   eyebrow: "Independent app studio · iPhone & Android",
@@ -30,6 +31,7 @@ en: {
   mainu_f: ["A new question every day", "Play with groups of 3 or more", "Fun challenges: “How well do you know me?” and Friend Match", "Available in 7 languages"]
 },
 he: {
+  follow: "עקבו אחרינו",
   title: "AJ Softworks — אפליקציות פשוטות, פרטיות ושימושיות",
   nav_apps: "אפליקציות", nav_about: "אודות", nav_contact: "צור קשר",
   eyebrow: "סטודיו עצמאי לאפליקציות · iPhone ו־Android",
@@ -59,6 +61,7 @@ he: {
   mainu_f: ["שאלה חדשה כל יום", "משחקים בקבוצה של 3 ומעלה", "אתגרים מהנים: \"כמה אתה מכיר אותי?\" ו־Friend Match", "זמין ב־7 שפות"]
 },
 ar: {
+  follow: "تابعونا",
   title: "AJ Softworks — تطبيقات بسيطة وخاصة ومفيدة",
   nav_apps: "التطبيقات", nav_about: "من نحن", nav_contact: "تواصل معنا",
   eyebrow: "استوديو تطبيقات مستقل · iPhone و Android",
@@ -88,6 +91,7 @@ ar: {
   mainu_f: ["سؤال جديد كل يوم", "العب مع مجموعة من 3 أشخاص أو أكثر", "تحديات ممتعة: \"كم تعرفني؟\" و Friend Match", "متوفر بـ 7 لغات"]
 },
 es: {
+  follow: "Síguenos",
   title: "AJ Softworks — Apps sencillas, privadas y útiles",
   nav_apps: "Apps", nav_about: "Nosotros", nav_contact: "Contacto",
   eyebrow: "Estudio de apps independiente · iPhone y Android",
@@ -117,6 +121,7 @@ es: {
   mainu_f: ["Una pregunta nueva cada día", "Juega en grupos de 3 o más", "Retos divertidos: “¿Cuánto me conoces?” y Friend Match", "Disponible en 7 idiomas"]
 },
 fr: {
+  follow: "Suivez-nous",
   title: "AJ Softworks — Des applications simples, privées et utiles",
   nav_apps: "Applications", nav_about: "À propos", nav_contact: "Contact",
   eyebrow: "Studio d'applications indépendant · iPhone et Android",
@@ -146,6 +151,7 @@ fr: {
   mainu_f: ["Une nouvelle question chaque jour", "Jouez à partir de 3 personnes", "Défis amusants : « Me connais-tu vraiment ? » et Friend Match", "Disponible en 7 langues"]
 },
 de: {
+  follow: "Folge uns",
   title: "AJ Softworks — Einfache, private und nützliche Apps",
   nav_apps: "Apps", nav_about: "Über uns", nav_contact: "Kontakt",
   eyebrow: "Unabhängiges App-Studio · iPhone & Android",
@@ -175,6 +181,7 @@ de: {
   mainu_f: ["Jeden Tag eine neue Frage", "Spielbar ab 3 Personen", "Lustige Challenges: „Wie gut kennst du mich?“ und Friend Match", "In 7 Sprachen verfügbar"]
 },
 ru: {
+  follow: "Подписывайтесь на нас",
   title: "AJ Softworks — Простые, приватные и полезные приложения",
   nav_apps: "Приложения", nav_about: "О нас", nav_contact: "Контакты",
   eyebrow: "Независимая студия приложений · iPhone и Android",
@@ -204,6 +211,7 @@ ru: {
   mainu_f: ["Каждый день новый вопрос", "Играйте компанией от 3 человек", "Весёлые испытания: «Насколько хорошо ты меня знаешь?» и Friend Match", "Доступно на 7 языках"]
 },
 tr: {
+  follow: "Bizi takip edin",
   title: "AJ Softworks — Sade, gizliliğe saygılı ve kullanışlı uygulamalar",
   nav_apps: "Uygulamalar", nav_about: "Hakkımızda", nav_contact: "İletişim",
   eyebrow: "Bağımsız uygulama stüdyosu · iPhone ve Android",
@@ -233,6 +241,7 @@ tr: {
   mainu_f: ["Her gün yeni bir soru", "3 veya daha fazla kişilik gruplarla oynayın", "Eğlenceli meydan okumalar: “Beni ne kadar tanıyorsun?” ve Friend Match", "7 dilde"]
 },
 pt: {
+  follow: "Siga-nos",
   title: "AJ Softworks — Apps simples, privados e úteis",
   nav_apps: "Apps", nav_about: "Sobre", nav_contact: "Contato",
   eyebrow: "Estúdio independente de apps · iPhone e Android",
@@ -262,6 +271,7 @@ pt: {
   mainu_f: ["Uma pergunta nova todo dia", "Jogue em grupos de 3 ou mais", "Desafios divertidos: “Quanto você me conhece?” e Friend Match", "Disponível em 7 idiomas"]
 },
 zh: {
+  follow: "关注我们",
   title: "AJ Softworks — 简单、私密、实用的应用",
   nav_apps: "应用", nav_about: "关于", nav_contact: "联系我们",
   eyebrow: "独立应用工作室 · iPhone 与 Android",
